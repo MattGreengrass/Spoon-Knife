@@ -1,0 +1,3 @@
+GitKraken Code Suggestion parity fixture
+
+Baseline line for a temporary visual and interaction audit.
